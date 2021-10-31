@@ -6,13 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Tomas Codina personal web page!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: Tomas Codina's personal web page
+description: To share my Physics and AI learning process.
+github_username: Tomycles
 
 # Email and twitter are optional:
-email:
-twitter_username:
+email: tomycodina@gmail.com
 
 # Set this to true to get LaTeX math equation support
 use_math:
